@@ -13,4 +13,9 @@ div {
 .message {
     text-align: center;
     font-size: 4rem;
+    display: none;
+}
+
+.message-show {
+    display: block;
 }
